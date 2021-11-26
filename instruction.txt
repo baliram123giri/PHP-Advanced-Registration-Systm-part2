@@ -1,0 +1,7 @@
+Mysql Constraints 
+ 1. Uniqe Key (Constraints)
+
+ Horizontal Lnes 
+  Record/Rows
+
+  GET AND POST are methods
